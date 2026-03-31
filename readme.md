@@ -346,6 +346,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [journalot](https://github.com/jtaylortech/journalot) - Journaling tool with git sync.
 - [rucola](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
 - [kanban.bash](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
+- [kanban](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
 
 ### Finance
 
@@ -787,6 +788,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [agent-deck](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
 - [Sugar](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
 - [Shep](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.
+- [InkOS](https://github.com/Narcooo/inkos/blob/master/README.en.md) - Novel-writing agent.
 - [skillget](https://github.com/getskillpack/cli) - Official CLI for the open [getskillpack](https://github.com/getskillpack) skill registry: search, install, lockfile, and publish versioned agent/IDE skills.
 
 ### LLM Interaction
